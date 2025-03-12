@@ -1,4 +1,4 @@
-# Bangalore House Price Prediction
+# Real Estate  Price Prediction
 
 ## Overview
 This project uses **synthetic data** for training to enhance model robustness and knowledge extraction.
